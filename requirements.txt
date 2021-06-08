@@ -19,7 +19,7 @@ gunicorn==19.6.0
 itsdangerous==0.24
 Jinja2==2.8
 jsmin==2.2.1
-Pillow==3.4.2
+Pillow==8.2.0
 psycopg2==2.6.2
 redis==2.10.5
 SQLAlchemy==1.1.3
